@@ -1,4 +1,4 @@
-name = "reefai-cargo-buts" # todo
+name = "reefai-net-service" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "ff21055e-275d-486b-b275-a4cbff0ad8ca"
+UUID = "32ce81be-cac3-43d8-9485-2c84a01980c8"
